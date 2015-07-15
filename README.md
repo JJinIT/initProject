@@ -1,1 +1,2 @@
 # initProject
+## samsung software membership
