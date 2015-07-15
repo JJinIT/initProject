@@ -1,2 +1,4 @@
 # initProject
-## JJinIT
+
+## samsung software membership
+
